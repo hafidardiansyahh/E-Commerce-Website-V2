@@ -29,7 +29,7 @@ Website ini saya buat untuk melatih saya menggunakan Laravel dan Bootstrap.
 
 ### 📝 Lisensi
 
--   Copyright © 2020 Hafid Ardiansyah.
+-   Copyright © 2021 Hafid Ardiansyah.
 -   **ITShop MIT License.**
 
 ---
